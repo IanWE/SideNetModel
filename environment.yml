@@ -1,0 +1,12 @@
+name : pytorch 
+dependencies:
+- python=2.7.15
+- jupyter
+- matplotlib
+- pandas
+- pip:
+  - numpy
+  - requests
+  - pillow
+  - future
+  - scikit-learn 
